@@ -68,6 +68,13 @@ Now, if we map this back to our coffee shop, our cashier becomes a memory optimi
 
 ### Amazon EC2 Pricing
 
+Multiple billing options:   
+- on-demad - pay how long its used - charged by the second or minute - depends on EC2 type.  No prior contracts needed. Not recommend for instances running 1 year or longer
+- Savings Plan - low price on EC2 insntance when comitting to a 1 or 3 year contract.  Save up 72%.  Also applies Fargate and AWS Lambda
+- Reserve instance - 75% with known usage instance - 1 or 3 year contract.  Three payment options. Up-fromt, partial up-front, no up-front
+- Spot instances - use instance when EC2 hits a certain price, can be taken back AWS when pricing dynamically changes
+- Dedicated hosts - no shared tenancy
+
 #### Transcript
 We talked about EC2 instance types, but you're all probably wondering how much is this gonna cost me? Well, don't fret. For EC2, we have multiple billing options available. 
 
