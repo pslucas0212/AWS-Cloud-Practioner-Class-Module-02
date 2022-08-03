@@ -1,5 +1,7 @@
 # Module 2: Introduction to Amazon EC2
 
+[AWS Cloud Practitioner Home](https://github.com/pslucas0212/AWS-Cloud-Practioner)
+
 Amazon Elastic Compute Cloude - EC2 - virtual servicers
 
 You don't pay for stop or terminated services
